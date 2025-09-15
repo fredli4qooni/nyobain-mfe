@@ -1,5 +1,3 @@
-// packages/mfe2/src/App.tsx
-import React from 'react';
 import CounterTwo from './components/CounterTwo';
 
 function App() {
